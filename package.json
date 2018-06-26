@@ -52,7 +52,7 @@
   "dependencies": {
     "ml-array-mean": "^1.0.0",
     "ml-array-median": "^1.0.0",
-    "ml-cart": "^1.0.8",
+    "ml-cart": "git+https://github.com/jondwillis/decision-tree-cart.git",
     "ml-matrix": "^5.0.0",
     "random-js": "^1.0.8"
   }
